@@ -146,6 +146,14 @@
     padding-right: 100px;
 }
 
+@media only screen and (max-width: 567px) {
+  .form-container{
+  
+    padding-left: 10px;
+    padding-right: 10px;
+}
+}
+
 .sign-in{
     left: 0;
     width: 50%;
